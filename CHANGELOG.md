@@ -6,6 +6,12 @@ The format is based on Keep a Changelog, and this project uses Semantic Versioni
 
 ## [Unreleased]
 
+## [0.3.1] - 2026-07-08
+
+### Removed
+- What changed: Removed the three expired WeChat group QR codes (Groups 2/3/4, valid until 2026-06-29) from the README community section, keeping the permanent Feishu group QR, and replaced the expiry note with an evergreen pointer to the WeChat official account for the latest invites.
+- Why: The QR codes expired on 2026-06-29; serving dead invite links on the public org showcase repo sends new members into a dead end.
+
 ## [0.3.0] - 2026-07-08
 
 ### Removed
