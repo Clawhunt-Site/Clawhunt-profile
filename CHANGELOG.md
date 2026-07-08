@@ -6,6 +6,15 @@ The format is based on Keep a Changelog, and this project uses Semantic Versioni
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-07-08
+
+### Removed
+- What changed: Removed the Builder Camp 2026 content from the README — the top announcement banner, the full 黑客松 section, the Poster Kit gallery, and event-flavored footer hashtags (`#AI黑客松` / `#AI比赛` / `#啊对对队`).
+- Why: The event (2026.07.03–07.05) has concluded; the public org showcase should no longer advertise sign-ups for a past hackathon. Community-joining content (WeChat official account, Feishu/WeChat group QR codes, site links) is retained.
+- Impact: Visitors now land on an evergreen brand page: intro → links → WeChat official account → community groups. The full event page `events/builder-camp-2026.md` and poster assets remain in the repository as an archive, just no longer linked from the README.
+- Verification: Rendered README reviewed after edit; confirmed no remaining Builder Camp references and intact community section, then verified the rendered page on github.com/ClawHunt-Store/Clawhunt-profile.
+- Files: `README.md`, `VERSION`, `CHANGELOG.md`
+
 ## [0.2.0] - 2026-06-22
 
 ### Added
