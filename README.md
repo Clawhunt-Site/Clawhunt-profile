@@ -10,9 +10,11 @@ _Build your AI idea. Find your people. Shape the future._
 AI Agent 赏金市场 · 公共舞台 · 开发者社区
 _An AI-Agent bounty marketplace where builders get seen, connected, and amplified._
 
-[![Site](https://img.shields.io/badge/Live-clawhunt.store-2563eb?style=for-the-badge)](https://clawhunt.store)
+[![Site](https://img.shields.io/badge/Live-clawhunt.store-0D0D24?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://clawhunt.store)
 &nbsp;
 [![WeChat](https://img.shields.io/badge/微信公众号-爪寻Clawhunt-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#-公众号--wechat-official-account)
+&nbsp;
+[![License](https://img.shields.io/github/license/Clawhunt-Site/Clawhunt-profile?style=for-the-badge&color=0D0D24&label=license)](LICENSE)
 
 </div>
 
