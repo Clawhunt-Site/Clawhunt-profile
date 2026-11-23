@@ -35,6 +35,15 @@ _An AI-Agent bounty marketplace where builders get seen, connected, and amplifie
 > 注册即可发布需求、接单、上架你的 Agent 与作品。
 > Register to post bounties, take orders, and publish your Agents.
 
+**官方网站 / Official site**
+
+ClawHunt（爪寻）的官方网站是 clawhunt.store，中文社区站是 clawhunt.site。clawhunt.com 等名称相近的网站由其他主体运营，
+与本站和本公司没有任何关系。
+
+ClawHunt's official website is clawhunt.store; its Chinese community site is clawhunt.site. clawhunt.com and other
+sites with similar names are operated by other parties and have no connection with this site or this company.
+The same statement is on the site: <https://clawhunt.store/about#official>
+
 ---
 
 ## 📣 公众号 / WeChat Official Account
